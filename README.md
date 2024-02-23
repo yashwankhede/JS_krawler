@@ -5,7 +5,7 @@ This Bash script is designed to assist bug hunters in identifying potential secu
 ## Installation
 
 ```bash
-git clone 
+git clone https://github.com/yashwankhede/JS_krawler.git
 ```
 
 Before running the script, ensure that you have Bash installed on your system. Additionally, the script requires Go to be installed. If Go is not already installed, the script will attempt to install it along with necessary dependencies.
@@ -42,5 +42,5 @@ The script then runs **secretfinder** on each URL to detect sensitive informatio
 ## Usage Example
 
 ```bash
-./JS_krawler.sh
+./JS_kr@wler.sh
 ```
